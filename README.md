@@ -1,14 +1,18 @@
-Music Store Data Analysis
+**Music Store Data Analysis**
 Overview
+
 This repository contains a data analysis project focused on exploring and analyzing data from a music store. The dataset used in this project includes information about customers, sales, and music tracks, providing valuable insights into the performance and trends of the music store.
 
 Usage
+
 The primary purpose of this project is to analyze the music store data to gain insights into customer behavior, sales performance, and track popularity. Users can leverage the sql queries provided to explore and analyze the dataset, for their specific needs.
 
 Data Source
+
 The dataset consists of SQL files containing information on customers, employees, invoices, tracks, and genres etc.
 
 Results
+
 The results of the data are presented in the Music store data analysis project.sql file. Queries answering below questions are provided , providing a comprehensive overview of the music store's performance.
 
 Q1.Who is the senior most employee based on job title?
